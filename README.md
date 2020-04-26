@@ -1,0 +1,1 @@
+web recipe built on top of spring boot web mvc
